@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    background-color: bisque;
+}
+
+header {
+    background-image: url(https://media.istockphoto.com/id/1360197541/photo/banner-hummus-of-their-chickpeas-in-a-wooden-plate-vegetarian-food.jpg?b=1&s=612x612&w=0&k=20&c=mq1sDTK1hfO_3YO_AsRT0bU-5LveZDXAxA4Njgq6XJA=);
+    background-size: cover;
+    background-repeat: none;
+    text-align: center;
+    padding: 40px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 24px;
+}
+   
+nav {
+    background-color: rgb(196, 161, 114);
+    padding: 10px 0;
+    display: block;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+ }
+nav li {
+    display: inline;
+    padding-right: 4%;  
+    font-weight: bold;
+}
+a {
+    color: brown;
+}
+.container {
+    border: 5px solid;
+    padding: 20px;
+    box-shadow: 10px 10px 5px;;
+}
+.menu-item {
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+    background-color: antiquewhite;
+}
+footer {
+    text-align: center;
+}
